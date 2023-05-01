@@ -30,4 +30,5 @@
   - [Data Quality with Python for Beginner](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AGGCJI/NONTRACK)
 9. Data Analyst Project: Business Decision Research
   - [Data Analyst Project: Business Decision Research](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2KEIRDM/NONTRACK)
+
 [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDATRCLLREFR/TRACK)
