@@ -7,4 +7,4 @@
 
 ## Table of Contents
 1. Pengenalan DA Track
-  -
+  - [Guide to Learn Python with AI at DQLab](https://academy.dqlab.id/main/package/practice/387/0?pf=0)
