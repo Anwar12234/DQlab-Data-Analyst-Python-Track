@@ -6,6 +6,9 @@
 ![download](https://user-images.githubusercontent.com/128627819/235392462-74443a02-c43f-4a60-9cb3-5a4d5c267815.png)
 
 ## Table of Contents
-1. [Pengenalan DA Track](https://academy.dqlab.id/main/package/practice/387/0?pf=0)
+1. Pengenalan DA Track
   - [Guide to Learn Python with AI at DQLab](https://academy.dqlab.id/main/package/practice/387/0?pf=0)
-3.
+2. Memahami Bahasa Pemrograman Fundamental
+  - [Python for Data Professional Beginner - Part 1](https://academy.dqlab.id/main/package/practice/157/0?pf=0)
+  - [Python for Data Professional Beginner - Part 2](https://academy.dqlab.id/main/package/practice/160/0?pf=0)
+  - [Python for Data Professional Beginner - Part 3](https://academy.dqlab.id/main/package/practice/161/0?pf=0)
