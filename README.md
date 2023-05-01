@@ -31,4 +31,4 @@
 9. Data Analyst Project: Business Decision Research
   - [Data Analyst Project: Business Decision Research](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2KEIRDM/NONTRACK)
 
-[Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDATRCLLREFR/TRACK)
+[Data Analyst Project: Business Decision Research](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDATRCLLREFR/TRACK)
