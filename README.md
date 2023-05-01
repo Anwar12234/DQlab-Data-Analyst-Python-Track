@@ -6,6 +6,6 @@
 ![download](https://user-images.githubusercontent.com/128627819/235392462-74443a02-c43f-4a60-9cb3-5a4d5c267815.png)
 
 ## Table of Contents
-1. Pengenalan DA Track
+1. Pengenalan DA Track(https://academy.dqlab.id/main/package/practice/387/0?pf=0)
   - [Guide to Learn Python with AI at DQLab](https://academy.dqlab.id/main/package/practice/387/0?pf=0)
 3.
