@@ -17,7 +17,7 @@
   - [Fundamental SQL Using FUNCTION and GROUP BY](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Bahasa%20SQL%20dan%20Sistem%20Database%20Relasional%20agar%20dapat%20mengolah%20data%20di%20Perusahaan%20Yang%20Sudah%20Menerapkan%20Sistem%20IT/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3RNQBMS/NONTRACK)
   - [Fundamental SQL Using INNER JOIN and UNION](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Bahasa%20SQL%20dan%20Sistem%20Database%20Relasional%20agar%20dapat%20mengolah%20data%20di%20Perusahaan%20Yang%20Sudah%20Menerapkan%20Sistem%20IT/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2DFCVEQ/NONTRACK)
 4. Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
-  - [Exploratory Data Analysis with Python for Beginner](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KKARRF/NONTRACK)
+  - [Exploratory Data Analysis with Python for Beginner](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Konsep%20dan%20Penerapan%20Exploratory%20Data%20Analysis%20dalam%20Studi%20Kasus%20Bisnis/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KKARRF/NONTRACK)
 5. Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
   - [Data Manipulation with Pandas - Part 1](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DBEBGG/NONTRACK)
   - [Data Manipulation with Pandas - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JEPUNI/NONTRACK)
