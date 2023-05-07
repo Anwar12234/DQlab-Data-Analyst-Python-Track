@@ -10,7 +10,7 @@
   - [Guide to Learn Python with AI at DQLab](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Pengenalan%20DA%20Track/Guide%20to%20Learn%20Python%20with%20AI%20at%20DQLab), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABAI001GFDBKU/NONTRACK)
 2. Memahami Bahasa Pemrograman Fundamental
   - [Python for Data Professional Beginner - Part 1](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Bahasa%20Pemrograman%20Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1IVORGF/NONTRACK)
-  - [Python for Data Professional Beginner - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QGIUNV/NONTRACK)
+  - [Python for Data Professional Beginner - Part 2](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Bahasa%20Pemrograman%20Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QGIUNV/NONTRACK)
   - [Python for Data Professional Beginner - Part 3](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1AMATPD/NONTRACK)
 3. Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
   - [Fundamental SQL Using SELECT Statement](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1PVWBET/NONTRACK)
