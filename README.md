@@ -7,7 +7,7 @@
 
 ## Table of Contents
 1. Pengenalan DA Track
-  - [Guide to Learn Python with AI at DQLab](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABAI001GFDBKU/NONTRACK)
+  - [Guide to Learn Python with AI at DQLab](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Pengenalan%20DA%20Track/Guide%20to%20Learn%20Python%20with%20AI%20at%20DQLab), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABAI001GFDBKU/NONTRACK)
 2. Memahami Bahasa Pemrograman Fundamental
   - [Python for Data Professional Beginner - Part 1](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1IVORGF/NONTRACK)
   - [Python for Data Professional Beginner - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QGIUNV/NONTRACK)
