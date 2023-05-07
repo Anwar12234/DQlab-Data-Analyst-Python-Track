@@ -1,0 +1,9 @@
+SELECT
+    *
+FROM
+    tabel_a;
+
+SELECT
+    *
+FROM
+    tabel_b;
