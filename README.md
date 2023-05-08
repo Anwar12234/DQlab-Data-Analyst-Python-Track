@@ -19,7 +19,7 @@
 4. Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
   - [Exploratory Data Analysis with Python for Beginner](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Konsep%20dan%20Penerapan%20Exploratory%20Data%20Analysis%20dalam%20Studi%20Kasus%20Bisnis/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KKARRF/NONTRACK)
 5. Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
-  - [Data Manipulation with Pandas - Part 1](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DBEBGG/NONTRACK)
+  - [Data Manipulation with Pandas - Part 1](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Mengolah%20Dataset%20Dalam%20Jumlah%20Kecil%20sampai%20dengan%20Besar/Data%20Manipulation%20with%20Pandas%20-%20Part%201), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DBEBGG/NONTRACK)
   - [Data Manipulation with Pandas - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JEPUNI/NONTRACK)
 6. Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
   - [Data Visualization with Python Matplotlib for Beginner - Part 1](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1PIBWJA/NONTRACK)
