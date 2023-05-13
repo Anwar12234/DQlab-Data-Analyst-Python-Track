@@ -21,9 +21,9 @@
 5. [Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Mengolah%20Dataset%20Dalam%20Jumlah%20Kecil%20sampai%20dengan%20Besar)
   - [Data Manipulation with Pandas - Part 1](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Mengolah%20Dataset%20Dalam%20Jumlah%20Kecil%20sampai%20dengan%20Besar/Data%20Manipulation%20with%20Pandas%20-%20Part%201), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DBEBGG/NONTRACK)
   - [Data Manipulation with Pandas - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JEPUNI/NONTRACK)
-6. Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
-  - [Data Visualization with Python Matplotlib for Beginner - Part 1](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1PIBWJA/NONTRACK)
-  - [Data Visualization with Python Matplotlib for Beginner - Part 2](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1AOQSMM/NONTRACK)
+6. [Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Konsep%20dan%20Menghasilkan%20Tipe%20Visualisasi%20Data%20yang%20Tepat%20untuk%20Mempresentasikan%20Suatu%20Kasus%20Bisnis)
+  - [Data Visualization with Python Matplotlib for Beginner - Part 1](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Konsep%20dan%20Menghasilkan%20Tipe%20Visualisasi%20Data%20yang%20Tepat%20untuk%20Mempresentasikan%20Suatu%20Kasus%20Bisnis/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1PIBWJA/NONTRACK)
+  - [Data Visualization with Python Matplotlib for Beginner - Part 2](https://github.com/Anwar12234/DQlab-Data-Analyst-Python-Track/tree/main/Memahami%20Konsep%20dan%20Menghasilkan%20Tipe%20Visualisasi%20Data%20yang%20Tepat%20untuk%20Mempresentasikan%20Suatu%20Kasus%20Bisnis/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABINTP1AOQSMM/NONTRACK)
 7. Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
   - [Machine Learning With Python for Beginner](), [Sertifikat](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2MOPRGF/NONTRACK)
 8. Melakukan Investigasi dan Mendeteksi Anomali pada Data
